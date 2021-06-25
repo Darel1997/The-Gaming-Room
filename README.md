@@ -1,1 +1,3 @@
 # The-Gaming-Room
+
+Our cient Creative Technology Solutions requested that we build a web-based game that will support multiple platforms. During the documentation of this program what I did particulary well is researching information about each platform. One thing I would improve about my code is adding the correct functions to the code. In terms of the user's needs  I looked at the needs that were listed in the request and researched ways to accomplish them, taking into account cost effectiveness and user friendliness.My approach was to look at each file and check for errors. Once ensuring each error was corrected, I ran the software to ensure it ran as expected.  
